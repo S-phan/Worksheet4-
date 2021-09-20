@@ -1,0 +1,1000 @@
+  270  wc -w unverified.txt>>counts.txt 
+  271  cat counts.txt 
+  272  vi counts.txt 
+  273  cat counts.txt 
+  274  history
+  275  history > cmds.log
+  276  cat cmds.log
+  277  git status
+  278  ls
+  279  cp counts.txt unverified.txt verified.txt cmds.log 
+  280  cd ..
+  281  ls
+  282  cd phans
+  283  ls
+  284  git status
+  285  git clone https://github.com/S-phan/ws2.git
+  286  cat ws2
+  287  git add .
+  288  cd myproject/
+  289  ls
+  290  cd ..
+  291  ls
+  292  cp cmds.log counts.txt unverified.txt verified.txt ws2
+  293  git status
+  294  git add .
+  295  git status
+  296  git init
+  297  git status
+  298  git add cmds.log counts.txt unverified.txt verified.txt 
+  299  git status
+  300  git commit -m "recompleted ws2 using egrep instead of grep"
+  301  git push
+  302  git push https://github.com/S-phan/ws2.git
+  303  S-phan
+  304  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
+  305  S-phan
+  306  git push https://github.com/S-phan/ws2.git
+  307  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
+  308  git push https://github.com/S-phan/ws2.git
+  309  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
+  310  git push https://github.com/S-phan/ws2.git
+  311  git status
+  312  history
+  313  history -10
+  314  git status
+  315  ls
+  316  git add cmds.log .
+  317  git push cmd.log
+  318  git push --set-upstream cmd.log master
+  319  cat mds,log
+  320  cat cmds.log 
+  321  git push --set-upstream cmd.log master
+  322  git remote -v
+  323  git orgin master
+  324  git push orgin master
+  325  cat cmds.log 
+  326  ls
+  327  git status
+  328  cd worksheet1
+  329  ls
+  330  git status
+  331  history>cmds.log
+  332  cat cmds.log 
+  333  ls
+  334  fit status
+  335  git status
+  336  git add cmds.log
+  337  git status
+  338  git commit -m "added cmds.log" 
+  339  git push 
+  340  cd ..
+  341  ls
+  342  cd ws2
+  343  ls
+  344  git status
+  345  cat counts.txt
+  346  cd..
+  347  cat counts.txt 
+  348  cd ..
+  349  cat counts.txt 
+  350  history
+  351  cat counts.txt 
+  352  ls
+  353  cd ws2
+  354  ls
+  355  cd ..
+  356  rm ws2/
+  357  rm -ws2/
+  358  -rm ws2/
+  359  rm -r ws2/
+  360  ls
+  361  cd ws2
+  362  ls
+  363  cd ..
+  364  mv cmds.log counts.txt unverified.txt verified.txt ws2
+  365  cd ws2
+  366  ls
+  367  git status
+  368  ls -a
+  369  git add .
+  370  git status
+  371  git commit -m " fix grep to egrep"
+  372  git push
+  373  git remote add ws2 https://github.com/S-phan/ws2.git
+  374  git push
+  375  git push ws2
+  376  git push --set-upstream ws2 master
+  377  git stash list
+  378  git stash
+  379  git stash list
+  380  git fetch
+  381  git pull
+  382  git pull https://github.com/S-phan/ws2.git master
+  383  git pull https://github.com/S-phan/ws2.git master --allow-unrelated-histories
+  384  git stauts
+  385  git status
+  386  git stutus
+  387  git add .
+  388  git status
+  389  git commit -m "completed  worksheet 2" 
+  390  cd..
+  391  cd ,,
+  392  cd ..
+  393  mv ws2 ws2_old
+  394  ls
+  395  git clone https://github.com/S-phan/ws2.git
+  396  cd ws2
+  397  ls
+  398  cd ..
+  399  mv cmds.log counts.txt unverified.txt verified.txt ws2
+  400  cd ws2
+  401  ls
+  402  git status
+  403  cat cmds.log | grep egrep
+  404  git add .
+  405  git status
+  406  git commit -m "completed ws2"
+  407  git push
+  408  cd wr
+  409  ls
+  410  cd ~
+  411  cat a1.cat
+  412  cat worksheet1
+  413  ls
+  414  cat worksheet1
+  415  cd ws2
+  416  ls
+  417  cat unverified.txt
+  418  cd ..
+  419  ls
+  420  cat a1.txt
+  421  rm a1.txt 
+  422  ls
+  423  cd mt project
+  424  cd myproject/
+  425  ls
+  426  script a1.txt
+  427  ls
+  428  script a1.txt
+  429  cat a1.txt
+  430  rm a1.txt 
+  431  ls
+  432  script a1.txt
+  433  echo $home
+  434  pwd
+  435  cd~
+  436  cd ~
+  437  pwd
+  438  vi a1.txt 
+  439  cat a1.txt
+  440  :q
+  441  ls
+  442  rm a1.txt
+  443  ls
+  444  script a2.txt
+  445  echo pwd
+  446  pwd
+  447  cd my project
+  448  cd myproject/
+  449  cd ~
+  450  echo question 2
+  451  less a2.txt
+  452  vi a2.txt
+  453  script a2.txt 
+  454  echo what is your UID? How did you find out?
+  455  id -u unsername
+  456  id -u phans
+  457  echo User UID is 1001
+  458  less a2.txt
+  459  vi a2.txt
+  460  rm a2.txt 
+  461  $group
+  462  groups
+  463  groups user
+  464  id userid
+  465  id 1001
+  466  mktemp-d
+  467  mktemp -d
+  468  ls -lah
+  469  ls
+  470  mkdir fake
+  471  ls
+  472  mkdir fake2 
+  473  mv fake fake2
+  474  cd fake2
+  475  ls
+  476  mkdir fake3
+  477  touch fake1 > fake3
+  478  ls fake3
+  479  cd..
+  480  cd ..
+  481  ls
+  482  cd fake2
+  483  ls
+  484  rm fake3
+  485  cd ..
+  486  ls
+  487  cp -R ws2_old fake2
+  488  cd fake2
+  489  ls
+  490  rm fake2
+  491  cd ..
+  492  rm fake2
+  493  ls
+  494  rm -r fake2
+  495  cd proc
+  496  cd /proc
+  497  ls
+  498  grep cpuinfo
+  499  cd cpuinfo
+  500  ls
+  501  meminfo
+  502  cd meminfo
+  503  sys
+  504  cd sys
+  505  ls
+  506  cd ..
+  507  sc cpuinfo
+  508  cd cpuinfo
+  509  cd tty
+  510  ls
+  511  cd ..
+  512  cd sys
+  513  ls
+  514  cd user
+  515  ls
+  516  cd ..
+  517  cd /temp
+  518  ls
+  519  tmp
+  520  cd ..
+  521  ls
+  522  cd user
+  523  ls
+  524  ls -1 amazon_reviews_us_Books_v1_02.tsv 
+  525  ls -l *
+  526  ls -h amazon_reviews_us_Books_v1_02.tsv 
+  527  ls -h *
+  528  ls -lh amazon_reviews_us_Books_v1_02.tsv 
+  529  wc amazon_reviews_us_Books_v1_02.tsv | grep great 
+  530  cat amazon_reviews_us_Books_v1_02.tsv | grep "great" > great.txt  
+  531  wc great.txt 
+  532  mkdir WS3
+  533  head - n 1 amazon_reviews_us_Books_v1_02.tsv 
+  534  head - n 1../ amazon_reviews_us_Books_v1_02.tsv 
+  535  ls
+  536  head amazon_reviews_us_Books_v1_02.tsv 
+  537  head -n 1 amazon_reviews_us_Books_v1_02.tsv 
+  538  mkdir temp 
+  539  ls
+  540  pwd
+  541  cd ~
+  542  less a1.txt
+  543  vi a1.txt 
+  544  les a1.txt
+  545  less a1.txt 
+  546  ls
+  547  ccd myproject/
+  548  cd myproject/
+  549  ls
+  550  ls -l
+  551  cd ..
+  552  cd ~
+  553  pwd
+  554  cd ~
+  555  echo question 2 
+  556  groups
+  557  group user
+  558  groups user
+  559  echo question 2
+  560  id -u phans
+  561  id user1001
+  562  echo question 3
+  563  groups
+  564  id user1001
+  565  id userid
+  566  id phansid
+  567  id phans
+  568  groups
+  569  id phans
+  570  echo question 4
+  571  mkdir temp
+  572  ls -l
+  573  chmod 677 temp
+  574  ls -l
+  575  cd temp
+  576  echo permission denied 
+  577  ls
+  578  ls temp
+  579  ls -l temp
+  580  echo you can ls into temp dir
+  581  echo question 5
+  582  mkdir fake
+  583  mkdir fake2
+  584  ls
+  585  mv fake fake2
+  586  ls fake2
+  587  echo you are allowed to mv a directory 
+  588  ls fake2
+  589  ls ws2_old/
+  590  echo yes you can cp an entire dir
+  591  echo question 6
+  592  cd /proc/
+  593  ls
+  594  ls | grep mem
+  595  cat meminfo
+  596  ls | grep cpu
+  597  cat cpuinfo 
+  598  echo Question 7
+  599  head meminfo 
+  600  echo total memtotal: 4049408 kB
+  601  head -h meminfo 
+  602  tail meminfo 
+  603  tail cpuinfo 
+  604  echo process 79
+  605  echo Question 9
+  606  ```bash
+  607  phans@f6linux17:/proc$ tail  cpuinfo
+  608  FileHugePages:         0 kB
+  609  FilePmdMapped:         0 kB
+  610  CmaTotal:              0 kB
+  611  CmaFree:               0 kB
+  612  HugePages_Total:       0
+  613  HugePages_Free:        0
+  614  HugePages_Rsvd:        0
+  615  HugePages_Surp:        0
+  616  Hugepagesize:      16384 kB
+  617  Hugetlb:               0 kB
+  618  cd ~
+  619  ls
+  620  ls -lh amazon_reviews_us_Books_v1_02.tsv
+  621  echo 3.1G 
+  622  echo Question 10
+  623  cat amazon_reviews_us_Books_v1_02.tsv | grep "great" > great.txt
+  624  phans@f6linux17:~$
+  625  ls
+  626  wc great.txt 
+  627  vi great.txt
+  628  cat amazon_reviews_us_Books_v1_02.tsv | grep-i "great" > great.txt
+  629  cat amazon_reviews_us_Books_v1_02.tsv | grep -i "great" > great.txt
+  630  cat great.txt
+  631  wc great.txt
+  632  ls -ld
+  633  ls -l
+  634  ls
+  635  ls -l
+  636  chmod 677 temp
+  637  ls -l
+  638  cd temp
+  639  ls 
+  640  ls temp
+  641  ls -l temp
+  642  rm temp
+  643  rmdir temp
+  644  cd proc
+  645  cd /proc/
+  646  ls
+  647  grep mem
+  648  ls | grep mem
+  649  cat meminfo
+  650  cat iomem
+  651  ls | grep cpu
+  652  cat cpuinfo 
+  653  cd /proc/cd /proc/
+  654  history 10
+  655  cat meminfo
+  656  head  meminfo
+  657  tail  meminfo
+  658  tail 15 meminfo 
+  659  ls
+  660  cd~
+  661  cd ~
+  662  ls
+  663  cd WS3
+  664  ls
+  665  cd ~
+  666  script a1.txt
+  667  vi a1.txt 
+  668  rm a1.txt
+  669  script a1.txt
+  670  less a1.txt 
+  671  script a2.txt
+  672  less a2.txt
+  673  rm a2.txt 
+  674  rm a1.txt
+  675  script a1.txt
+  676  less a1.txt
+  677  vi a1.txt
+  678  git  clone https://github.com/S-phan/Assigment-1.git
+  679  ls
+  680  mv a1.txt Assigment-1
+  681  ls Assigment-1/
+  682  mv great.txt Assigment-1/
+  683  cd Assigment-1/
+  684  git status
+  685  git add .
+  686  git commit -m "completed Assigment1" 
+  687  git push
+  688  ls
+  689  head -n 1 amazon_reviews_us_Books_v1_02.tsv 
+  690  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  691  cat customerID.txt 
+  692  cat head customerID.txt 
+  693  head customerID.txt 
+  694  cut -d "" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  695  head customerID.txt 
+  696  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  697  head customerID.txt 
+  698  sort customerID.txt | head
+  699  sort customerID.txt > customerID.txt.sorted 
+  700  ls
+  701  head customerID.txt.sorted 
+  702  cut -d "" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  703  sort customerID.txt > customerID.txt.sorted 
+  704  head customerID.txt.sorted 
+  705  ls
+  706  head -n 2 amazon_reviews_us_Books_v1_02.tsv
+  707  head -n 1 amazon_reviews_us_Books_v1_02.tsv
+  708  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  709  head customerID.txt
+  710  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  711  cut -d ":" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  712  head customerID.txt
+  713  cut -d ":" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  714  cut ":" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  715  cut -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  716  head customerID.txt
+  717  sort customerID.txt > customerID.txt.sorted
+  718  head customerID.txt.sorted 
+  719  uniq -c customerID.txt.sorted > customerID.txt.sorted.uniqcounts
+  720  head customerID.txt.sorted.uniqcounts 
+  721  sort -nk1 -- reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uniqcounts.reversed
+  722  sort -nk1 --reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uniqcounts.reversed
+  723  head customerID.txt.sorted.uniqcounts.reversed 
+  724  phans@f6linux17:~$ sort -nk1 --reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uni                                                 qcounts.reversed
+  725  phans@f6linux17:~$ head customerID.txt.sorted.uniqcounts.reversed
+  726  phans@f6linux17:~$ sort -nk1 --reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uni                                                 qcounts.reversed
+  727  phans@f6linux17:~$ head customerID.txt.sorted.uniqcounts.reversed
+  728  cut " " -f 9 <amazon file> >helpful.txt 
+  729  cut " " -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt 
+  730  cut -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt 
+  731  head helpful.txt
+  732  phans@f6linux17:~$ cut -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt
+  733  phans@f6linux17:~$ head helpful.txt
+  734  helpful_votes
+  735  2
+  736  5
+  737  1
+  738  2
+  739  0
+  740  2
+  741  9
+  742  3
+  743  16
+  744  cut -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  745  head customerID.txt 
+  746  sort customerID.txt > customerID.txt.sort
+  747  head customerID.txt.sort
+  748  uniq customerID.txt.sort > customerID.txt.sort.uniq
+  749  head customerID.txt.sort.uniq
+  750  uniq -c customerID.txt.sort > customerID.txt.sort.uniq
+  751  head customerID.txt.sort.uniq
+  752  sort -nk1 --reverse customerID.txt.sort.uniq
+  753  sort -nk1 --reverse customerID.txt.sort.uniq > customerID_SortedReverse.txt
+  754  head customerID_SortedReverse.txt 
+  755  head -3 customerID_SortedReverse.txt 
+  756  head -3 customerID_SortedReverse.txt > customerID_Top3.txt
+  757  head customerID_Top3.txt 
+  758  Echo Find Most reviewed products. Top 3
+  759  Echo Find Most reviewed product
+  760  echo Find Most reviewed product
+  761  ls
+  762  head amazon_reviews_us_Books_v1_02.tsv 
+  763  head -n 1 amazon_reviews_us_Books_v1_02.tsv 
+  764  cut -f 4 amazon_reviews_us_Books_v1_02.tsv > product_id.txt
+  765  head product_id.txt 
+  766  sort product_id.txt > product_id.txt.sorted
+  767  head product_id.txt.sorted 
+  768  uniq -c product_id.txt.sorted > product_id.txt.sorted.uniq
+  769  head product_id.txt.sorted.uniq
+  770  sort -nk1 --reverse product_id.txt.sorted.uniq > product_id.reverse.txt
+  771  head product_id.reverse.txt 
+  772  head -3 product_id.reverse.txt > productid_top3.txt
+  773  head productid_top3.txt 
+  774  ls
+  775  head -n 1 amazon_reviews_us_Books_v1_02.tsv
+  776  cut -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt
+  777  head helpful.txt 
+  778  uniq -c helpful.txt > helpful.count.txt 
+  779  head helpful.count.txt
+  780  cat helpful.count.txy
+  781  tail helpful.count.txt
+  782  head -20 helpful.count.txt
+  783  history > cmds.log
+  784  ls
+  785  rm customerID.txt.sorted.uni
+  786  rm customerID.txt.sorted.uniqcounts.reversed 
+  787  rm customerID.txt.sorted.uniqcounts 
+  788  ls
+  789  rm customerID.txt
+  790  rm customerID.txt.sorted
+  791  ls
+  792  head UserssphanDownloads 
+  793  ls
+  794  cut -f 4 amazon_reviews_us_Books_v1_02.tsv > product.txt
+  795  head product.txt 
+  796  rm product.txt 
+  797  ls
+  798  script ws3.txt
+  799  less ws3.txt
+  800  vi ws3.txt
+  801  ls
+  802  git status
+  803  ls assignment
+  804  ls
+  805  cd assigment-1
+  806  ls assigment-1
+  807  ls assigment
+  808  cd Assigment-1
+  809  ls
+  810  git status
+  811  git add .
+  812  git commit
+  813  git commit -m "submit hw 1"
+  814  git branch --unset-upstream
+  815  git status
+  816  git add .
+  817  git status
+  818  git commit -m "submit hw 1"
+  819  ls
+  820  git branch
+  821  git remote add origin https://github.com/S-phan/Assigment-1.git
+  822  head a1.txt
+  823  cd ..
+  824  mv Assigment-1 assign1
+  825  ls
+  826  git clone https://github.com/S-phan/Assigment-1.git
+  827  mv assign1/a1.txt assign1/great.txt
+  828  ls assign1/
+  829  head great.txt
+  830  ls
+  831  Assigment-1/
+  832  ls
+  833  ls assign1/
+  834  tail assign1/great.txt 
+  835  head assign1/great.txt 
+  836  cd assign1/
+  837  ls
+  838  mv great.txt a1.txt
+  839  ls
+  840  head a1.txt 
+  841  cd ..
+  842  ls
+  843  ls Assigment-1/
+  844  cp assign1/a1.txt Assigment-1/
+  845  ls Assigment-1/
+  846  cd Assigment-1/
+  847  head a1.txt 
+  848  git status
+  849  git add .
+  850  git commit -m "completed hw1"
+  851  git push origin master
+  852  git config --list
+  853  cd ..
+  854  git config --list
+  855  ls
+  856  git config --global user.name S-phan
+  857  git config --global user.email stphan0001@gmail.com
+  858  git config --list
+  859  git config -l
+  860  git Assigment-1/
+  861  cd Assigment-1/
+  862  ls
+  863  git checkout -b stphan
+  864  git branch
+  865  ls
+  866  vi a1.txt 
+  867  git status
+  868  git add .\
+  869  git add .
+  870  git commit -m "testing"
+  871  git push origin stphan
+  872  cd ..
+  873  gh auth login
+  874  git auth login
+  875  ls
+  876  git clone https://github.com/S-phan/Worksheet-3.git
+  877  ls
+  878  cp customerID.txt customerID.txt.sort customerID.txt.sort.uniq customerID_SortedReverse.txt customerID_Top3.txt helpful.count.txt helpful.txt Worksheet-3/ 
+  879  ls
+  880  cd Worksheet-3/
+  881  ls
+  882  cd ..
+  883  cp product_id.reverse.txt product_id.txt product_id.txt.sorted product_id.txt.sorted.uniq productid_top3.txt Worksheet-3/
+  884  cd Worksheet-3/
+  885  ls
+  886  git status
+  887  git add .
+  888  git commit -m "Worksheet 3"
+  889  git push
+  890  cd ..
+  891  ls
+  892  cp cmds.log Worksheet-3/
+  893  cd Worksheet-3/
+  894  git status
+  895  git add cmds.log 
+  896  git commit "history log "
+  897  git commi t-m "history log "
+  898  git commit -m "history log "
+  899  git push
+  900  ls
+  901  head customerID.txt
+  902  12076615
+  903  egrep "12076615" amazon_reviews_us_Books_v1_02.tsv > random.txt
+  904  head random.txt 
+  905  head 20 random.txt 
+  906  head -n 1 random.txt 
+  907  egrep "	12076615	" amazon_reviews_us_Books_v1_02.tsv > random.txt
+  908  head random.txt 
+  909  egrep "12703090" amazon_reviews_us_Books_v1_02.tsv > random.txt
+  910  head random.txt 
+  911  cut -d "	" -f 9 random.txt > ID_helpfulness.txt
+  912  head ID_helpfulness.txt 
+  913  cat ID_helpfulness.txt 
+  914  cut -d "" -f 9 random.txt > ID_helpfulness.txt
+  915  cat ID_helpfulness.txt 
+  916  cut "" -f 9 random.txt > ID_helpfulness.txt
+  917  cut -d "" -f 9 random.txt  > ID_helpfulness.txt 
+  918  ID_helpfulness.txt
+  919  head ID_helpfulness.txt
+  920  history
+  921  cut -f 9 random.txt  > ID_helpfulness.txt 
+  922  head ID_helpfulness.txt 
+  923  ls
+  924  head ID_helpfulness.txt 
+  925  cd Worksheet-3/
+  926  ls
+  927  head helpful.txt
+  928  cd ..
+  929  ls
+  930  ```bash
+  931  ls
+  932  mkdir products
+  933  mkdir customers
+  934  ls
+  935  cd customers/
+  936  ls
+  937  cd ..
+  938  egrep "	50122160	" amazon_reviews_us_Books_v1_02.tsv  > 50122160.txt
+  939  head 50122160.txt 
+  940  cut -f 9 "	" 50122160.txt > helpful_test.txt
+  941  cut -f 9 "" 50122160.txt > helpful_test.txt
+  942  cut -f 9  50122160.txt > helpful_test.txt
+  943  head helpful_test.txt
+  944  ls
+  945  mv ID_helpfulness.txt Worksheet-3/
+  946  ls
+  947  mv customer.txt customerID.txt.sort customerID.txt.sort.uniq Worksheet-3/
+  948  ls
+  949  cd worksheet1/
+  950  cd ..
+  951  cd worksheet-3
+  952  cd Worksheet-3/
+  953  ls
+  954  cd ..
+  955  mv customerID.txt customerID_SortedReverse.txt customerID_Top3.txt Worksheet-3/
+  956  cd WS3
+  957  ls
+  958  cd ..
+  959  ls
+  960  mv product_id.reverse.txt product_id.txt product_id.txt.sorted product_id.txt.sorted.uniq Worksheet-3/
+  961  ls Worksheet-3/
+  962  cd ..
+  963  ls
+  964  mv helpful.count.txt helpful.txt Worksheet-3/
+  965  ls
+  966  mv helpful_test.txt customers
+  967  ls -altr customer
+  968  ls -altr customers
+  969  history
+  970  cd customer
+  971  ls
+  972  cd custmers
+  973  cd customers/
+  974  ls
+  975  count = 0; total = 0;
+  976  cd ..
+  977  count = 0; total = 0;
+  978  ls
+  979  cd customers/
+  980  ls
+  981  cd ..
+  982  mv 50122160.txt customers/
+  983  cd customers/
+  984  ls
+  985  ls altr
+  986  ls -latr
+  987  head helpful_test.txt 
+  988  count=0; total=0;
+  989  for i in 'cat  helpful_test.txt' : do total =$(echo $i-6.12| bc)
+  990  for i in 'cat  helpful_test.txt' : do total =$(echo $i-6.12| bc); done
+  991  for i in 'cat  helpful_test.txt' : do total =$(echo $i-6.12| bc);done
+  992  for i in 'cat  helpful_test.txt' : do total =$(echo $i-6.12| bc);	done
+  993  for i in 'cat  helpful_test.txt' : do total =$(echo $itotal+i  | bc); ((count++));
+  994  count=0; total=0;
+  995  for i in 'cat  helpful_test.txt' : do total =$(echo $itotal+i  | bc);((count++));
+  996  for i in 'cat  helpful_test.txt' : do total =$(echo $itotal+i  | bc);((count++)); done
+  997  for i in 'cat  helpful_test.txt' : do total =$(echo $total+i  | bc);((count++)); done
+  998  for i in 'cat  helpful_test.txt' : do total =$(echo $total+i  | bc); ((count++)); done
+  999  for i in 'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); ((count++)); done
+ 1000  for i in 'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); ((count++));	done
+ 1001  for i in 'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); 
+ 1002  count=0; total=0; for i in $( awk '{ print $2; }' file.txt );do total=$(echo $total+$i | bc ); count=0; total=0; for i in $( awk '{ print $2; }' helpful_test.txt);do total=$(echo $total+$i | bc ); \
+ 1003  head helpful_test.txt 
+ 1004  cat helpful_test.txt 
+ 1005  count=0; total=0;
+ 1006  ls
+ 1007  for i in $(awk '{print $2: }' helpful_test.txt);
+ 1008  for i in 'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); ((count++));	done
+ 1009  count=0; total=0;
+ 1010  for i in 'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); ((count++));done;
+ 1011  for i in 'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); ((count++)); done;
+ 1012  for i in $'cat  helpful_test.txt' : do total=$(echo $total+i  | bc); ((count++)); done;
+ 1013  for i in $'cat  helpful_test.txt' : do total=$(echo $total+i  | bc);
+ 1014  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+i  | bc); ((count++)); done;
+ 1015  echo $total
+ 1016  count=0; total=0;
+ 1017  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+i  | bc); ((count++)); done;
+ 1018  echo total
+ 1019  echo $total
+ 1020  head helpful_test.txt 
+ 1021  cat helpful_test.txt 
+ 1022  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+$i  | bc); ((count++)); done;
+ 1023  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+ $i  | bc); ((count++)); done;
+ 1024  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+$i | bc); ((count++)); done;
+ 1025  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+$i|bc); ((count++)); done;
+ 1026  for i in $'cat  helpful_test.txt' ; do total=$(echo $total+$i|bc); ((count++)); done
+ 1027  for i in $'cat  helpful_test.txt' ;do total=$(echo $total+$i | bc );((count++)); done;
+ 1028  for i in $'helpful_test.txt' ;do total=$(echo $total+$i | bc );((count++)); done;
+ 1029  for i in $awk ' helpful_test.txt' ;do total=$(echo $total+$i | bc );((count++)); done;
+ 1030  for i in $'helpful_test.txt' ;do total=$(echo $total+$i | bc );((count++)); done;
+ 1031  for i in $cat 'helpful_test.txt' ;do total=$(echo $total+$i | bc );((count++)); done;
+ 1032  for i in 'cat  helpful_test.txt' ;do total=$(echo $total+$i | bc );((count++)); done;
+ 1033  for i in 'cat  helpful_test.txt' ; do total=$(echo $total+$i | bc );((count++)); done;
+ 1034  mkdir products
+ 1035  mkdir customers
+ 1036  ls
+ 1037  cd Worksheet-3/
+ 1038  ls
+ 1039  head helpful.txt
+ 1040  head customerID.txt
+ 1041  tail customerID.txt
+ 1042  cd ..
+ 1043  egrep "	12076615	" amazon_reviews_us_Books_v1_02.tsv > 12076615.txt
+ 1044  head 12076615.txt 
+ 1045  cut -f 9  12076615.txt > 12076615_ helpful.txt
+ 1046  ls
+ 1047  cd customers/
+ 1048  ls
+ 1049  cd..
+ 1050  cut -f 9  12076615.txt > 12076615helpful.txt
+ 1051  cd ..
+ 1052  cut -f 9  12076615.txt > 12076615helpful.txt
+ 1053  head 12076615helpful.txt 
+ 1054  mv 12076615helpful.txt customers/ 
+ 1055  phans@f6linux17:~$ cut -f 9  12076615.txt > 12076615_ helpful.txt
+ 1056  egrep "	53096571	" amazon_reviews_us_Books_v1_02.tsv > 53096571.txt
+ 1057  cut -f 9 53096571.txt > 53096571helpful.txt 
+ 1058  mv 53096571helpful.txt customers/
+ 1059  egrep "	52420369	" amazon_reviews_us_Books_v1_02.tsv > 52420369.txt
+ 1060  cut -f 9 52420369.txt.txt > 52420369helpful.txt 
+ 1061  cut -f 9 52420369.txt > 52420369helpful.txt 
+ 1062  mv 52420369helpful.txt customers/
+ 1063  cd customers/
+ 1064  ls
+ 1065  mv 12076615helpful.txt CUSTOMERS/12076615.txt
+ 1066  mv 12076615helpful.txt CUSTOMERS.12076615.txt
+ 1067  ls
+ 1068  mv 52420369helpful.txt CUSTOMERS.52420369.txt
+ 1069  ls
+ 1070  mv 53096571helpful.txt CUSTOMERS.53096571.txt
+ 1071  ls
+ 1072  head CUSTOMERS.12076615.txt 
+ 1073  count=0; total=0;
+ 1074  for i in `cat CUSTOMERS.12076615.txt`; do total=$(echo $total+$i | bc);((count++));    done;
+ 1075  echo $total
+ 1076  echo $count
+ 1077  echo "scale =2; $total / $count" | bc
+ 1078  head CUSTOMERS.12076615.txt 
+ 1079  head CUSTOMERS.53096571.txt 
+ 1080  cd ..
+ 1081  egrep "      50122160        " amazon_reviews_us_Books_v1_02.tsv  > 50122160.txt
+ 1082  cut -f 9  50122160.txt > CUSTOMER.50122160.txt
+ 1083  mv CUSTOMER.50122160.txt  customers/
+ 1084  cd customers/
+ 1085  ls
+ 1086  count=0; total=0;
+ 1087  for i in `cat  CUSTOMER.53096571` ;  do total=$(echo $total+$i | bc);((count++));    done;
+ 1088  ls
+ 1089  count=0; total=0;
+ 1090  for i in `cat  CUSTOMERS.53096571.txt` ;  do total=$(echo $total+$i | bc);((count++)): done;
+ 1091  for i in `cat  CUSTOMERS.53096571.txt` ;  do total=$(echo $total+$i | bc);((count++)); done;
+ 1092  echo $total
+ 1093  echo $count
+ 1094  ls
+ 1095  count=0; total=0;
+ 1096  for i in `cat  CUSTOMERS.12076615.txt` ;  do total=$(echo $total+$i | bc);((count++)); done;
+ 1097  cat $total > total.12076615.txt
+ 1098  count=0; total=0;
+ 1099  for i in `cat  CUSTOMERS.53096571.txt` ;  do total=$(echo $total+$i | bc);((count++)); done;
+ 1100  echo $count
+ 1101  echo $total
+ 1102  count=0; total=0;
+ 1103  for i in `cat  CUSTOMERS.52420369.txt` ;  do total=$(echo $total+$i | bc);((count++)); done;
+ 1104  echo $total
+ 1105  echo $count
+ 1106  for i in `cat  CUSTOMERS.50122160.txt` ;  do total=$(echo $total+$i | bc);((count++)); done;
+ 1107  $total > total.50122160.txt
+ 1108  cd ..
+ 1109  ls 
+ 1110  cd Worksheet-3/
+ 1111  ls
+ 1112  head  product_id.txt
+ 1113  cd ..
+ 1114  egrep "      0385730586        " amazon_reviews_us_Books_v1_02.tsv  > product.0385730586.txt
+ 1115  cut -f 9  0385730586.txt > product.0385730586.txt
+ 1116  cut -f 9  0385730586.txt > product0385730586.txt
+ 1117  cut -f 9  product.0385730586.txt > product.0385730586.txt
+ 1118  head product.0385730586.txt 
+ 1119  egrep "      0385730586        " amazon_reviews_us_Books_v1_02.tsv  > 0385730586.txt
+ 1120  cut -f 9  0385730586.txt > product.0385730586.txt
+ 1121  head product.0385730586.txt 
+ 1122  head 0385730586.txt 
+ 1123  egrep "0385730586" amazon_reviews_us_Books_v1_02.tsv  > 0385730586.txt
+ 1124  head 0385730586.txt 
+ 1125  cut -f 9  0385730586.txt > product.0385730586.txt
+ 1126  head product.0385730586.txt 
+ 1127  mv product.0385730586.txt product 
+ 1128  cd product
+ 1129  ls
+ 1130  mv product.0385730586.txt products 
+ 1131  head 0385730586.txt 
+ 1132  cd..
+ 1133  ls
+ 1134  mv products product.0385730586.txt 
+ 1135  mv product.0385730586.txt/ products/
+ 1136  cd products/
+ 1137  ls
+ 1138  cd ..
+ 1139  ls
+ 1140  head product0385730586.txt 
+ 1141  mkdir products
+ 1142  mkdir customers
+ 1143  egrep "      53096571        " amazon_reviews_us_Books_v1_02.tsv  > 53096571.txt
+ 1144  cut -f 9  53096571.txt > customers.53096571.txt
+ 1145  egrep "      52420369        " amazon_reviews_us_Books_v1_02.tsv  > 52420369.txt
+ 1146  cut -f 9  52420369.txt > customers.52420369.txt
+ 1147  egrep "      12076615        " amazon_reviews_us_Books_v1_02.tsv  > 12076615.txt
+ 1148  cut -f 9  12076615.txt > customers.12076615.txt
+ 1149  ls
+ 1150  head customers.12076615.txt 
+ 1151  head 12076615.txt 
+ 1152  mkdir products
+ 1153  mkdir customers
+ 1154  egrep "53096571" amazon_reviews_us_Books_v1_02.tsv  > 53096571.txt
+ 1155  cut -f 9  53096571.txt > customers.53096571.txt
+ 1156  head customers.53096571.txt 
+ 1157  egrep "52420369" amazon_reviews_us_Books_v1_02.tsv  > 52420369.txt
+ 1158  cut -f 9  52420369.txt > customers.52420369.txt
+ 1159  head customers.52420369.txt 
+ 1160  egrep "12076615" amazon_reviews_us_Books_v1_02.tsv  > 12076615.txt
+ 1161  cut -f 9  12076615.txt > customers.12076615.txt
+ 1162  head customers.12076615.txt 
+ 1163  ls
+ 1164  mv customers.12076615.txt customers
+ 1165  mv customers.52420369.txt customers
+ 1166  mv customers.53096571.txt customers
+ 1167  cd customers/
+ 1168  ls
+ 1169  count=0; total=0;
+ 1170  for i in `cat customers.12076615.txt` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1171  echo $total
+ 1172  echo $count
+ 1173* 
+ 1174  echo $count >  count.customers.12076615.txt
+ 1175  count=0; total=0;
+ 1176  for i in `cat customers.52420369.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1177  echo $total
+ 1178  echo $total >  count.customers.52420369.txt
+ 1179  echo $count >  count.customers.52420369.txt
+ 1180  echo $count
+ 1181  count=0; total=0;
+ 1182  for i in `cat customers.53096571.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1183  echo $total
+ 1184  echo $count
+ 1185  echo $count >  count.customers.53096571.txt
+ 1186  echo $total >  count.customers.53096571.txt
+ 1187  ls
+ 1188  count=0; total=0;
+ 1189  for i in `cat customers.53096571.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1190  echo "scale =2; $total / $count" | bc > 53096571.variance.txt
+ 1191  echo "scale =2; $total / $count" | bc 
+ 1192  count=0; total=0;
+ 1193  for i in `cat customers.52420369.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1194  echo "scale =2; $total / $count" | bc
+ 1195  echo "scale =2; $total / $count" | bc > 52420369.variance.txt
+ 1196  count=0; total=0;
+ 1197  for i in `cat customers.12076615.txt` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1198  echo "scale =2; $total / $count" | bc
+ 1199  echo "scale =2; $total / $count" | bc > 12076615.variance.txt
+ 1200  ls
+ 1201  cd . .
+ 1202  cd..
+ 1203  egrep "0385730586" amazon_reviews_us_Books_v1_02.tsv  > 0385730586.txt
+ 1204  cd..
+ 1205  cd ..
+ 1206  egrep "0385730586" amazon_reviews_us_Books_v1_02.tsv  > 0385730586.txt
+ 1207  cut -f 9  0385730586.txt > product.0385730586.txt
+ 1208  head product.0385730586.txt 
+ 1209  egrep "0262181533" amazon_reviews_us_Books_v1_02.tsv  > 0262181533.txt
+ 1210  cut -f 9  0385730586.txt > product.0262181533.txt
+ 1211  head product.0262181533.txt 
+ 1212  egrep "0300108834" amazon_reviews_us_Books_v1_02.tsv  > 0300108834.txt
+ 1213  cut -f 9  0385730586.txt > product.0300108834.txt
+ 1214  ls
+ 1215  mv product.0262181533.txt products
+ 1216  ls
+ 1217  mv product.0300108834.txt products
+ 1218  ls
+ 1219  mv product.0385730586.txt products
+ 1220  cd products/
+ 1221  ls
+ 1222  count=0; total=0;
+ 1223  for i in `cat customers.0385730586.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1224  for i in `cat product.0385730586.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1225  echo $total
+ 1226  echo $count
+ 1227  echo "scale =2; $total / $count" | bc
+ 1228  echo $total >  total.product.0385730586.txt
+ 1229  echo "scale =2; $total / $count" | bc > 0385730586.variance.txt
+ 1230  count=0; total=0;
+ 1231  for i in `cat product.0262181533.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1232  echo $total
+ 1233  for i in `cat product.0262181533.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1234  echo $total
+ 1235  count=0; total=0;
+ 1236  for i in `cat product.0262181533.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1237  echo $total
+ 1238  echo $count
+ 1239  ls
+ 1240  head product.0385730586.txt 
+ 1241  head product.0262181533.txt 
+ 1242  cd ..
+ 1243  egrep "0262181533" amazon_reviews_us_Books_v1_02.tsv  > 0262181533.txt
+ 1244  cut -f 9  0385730586.txt > product.0262181533.txt
+ 1245  mv product.0262181533.txt products
+ 1246  cd products/
+ 1247  count=0; total=0;
+ 1248  for i in `cat product.0262181533.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1249  echo $total
+ 1250  echo $count
+ 1251  echo "scale =2; $total / $count" | bc
+ 1252  echo $total >  total.product.0262181533.txt
+ 1253  echo "scale =2; $total / $count" | bc > 0262181533.variance.txt
+ 1254  count=0; total=0;
+ 1255  for i in `cat product.0385730586.txt ` ; do total=$(echo $total+$i | bc);((count++));    done;
+ 1256  echo $total
+ 1257  echo $count
+ 1258  echo "scale =2; $total / $count" | bc
+ 1259  echo $total >  total.product.0385730586.txt
+ 1260  echo "scale =2; $total / $count" | bc > 0385730586.variance.txt
+ 1261  cd ..
+ 1262  ls
+ 1263  mv 53096571.txt customers/
+ 1264  mv 52420369.txt customers/
+ 1265  mv 12076615.txt customers/
+ 1266  mv 0385730586.txt products/
+ 1267  mv 0262181533.txt products/
+ 1268  mv 0300108834.txt products/
+ 1269  history > cmds.log
